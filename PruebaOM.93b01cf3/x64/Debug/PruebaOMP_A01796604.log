@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\joser\OneDrive\Desktop\Master\Trimestre 5\Cómputo en la nube\Tarea 1\PruebaOMP_A01796604\main.cpp(21,18): warning C4244: '=': conversión de 'int' a '_Ty'; posible pérdida de datos
+C:\Users\joser\OneDrive\Desktop\Master\Trimestre 5\Cómputo en la nube\Tarea 1\PruebaOMP_A01796604\main.cpp(21,18): warning C4244:         with
+C:\Users\joser\OneDrive\Desktop\Master\Trimestre 5\Cómputo en la nube\Tarea 1\PruebaOMP_A01796604\main.cpp(21,18): warning C4244:         [
+C:\Users\joser\OneDrive\Desktop\Master\Trimestre 5\Cómputo en la nube\Tarea 1\PruebaOMP_A01796604\main.cpp(21,18): warning C4244:             _Ty=float
+C:\Users\joser\OneDrive\Desktop\Master\Trimestre 5\Cómputo en la nube\Tarea 1\PruebaOMP_A01796604\main.cpp(21,18): warning C4244:         ]
+C:\Users\joser\OneDrive\Desktop\Master\Trimestre 5\Cómputo en la nube\Tarea 1\PruebaOMP_A01796604\main.cpp(22,24): warning C4244: '=': conversión de 'int' a '_Ty'; posible pérdida de datos
+C:\Users\joser\OneDrive\Desktop\Master\Trimestre 5\Cómputo en la nube\Tarea 1\PruebaOMP_A01796604\main.cpp(22,24): warning C4244:         with
+C:\Users\joser\OneDrive\Desktop\Master\Trimestre 5\Cómputo en la nube\Tarea 1\PruebaOMP_A01796604\main.cpp(22,24): warning C4244:         [
+C:\Users\joser\OneDrive\Desktop\Master\Trimestre 5\Cómputo en la nube\Tarea 1\PruebaOMP_A01796604\main.cpp(22,24): warning C4244:             _Ty=float
+C:\Users\joser\OneDrive\Desktop\Master\Trimestre 5\Cómputo en la nube\Tarea 1\PruebaOMP_A01796604\main.cpp(22,24): warning C4244:         ]
+  PruebaOMP_A01796604.vcxproj -> C:\Users\joser\OneDrive\Desktop\Master\Trimestre 5\Cómputo en la nube\Tarea 1\PruebaOMP_A01796604\x64\Debug\PruebaOMP_A01796604.exe
